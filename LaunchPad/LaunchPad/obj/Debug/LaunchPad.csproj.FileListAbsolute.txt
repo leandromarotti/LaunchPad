@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\LaunchPad\LaunchPad\bin\Debug\LaunchPad.exe.config
+C:\Users\User\source\repos\LaunchPad\LaunchPad\bin\Debug\LaunchPad.exe
+C:\Users\User\source\repos\LaunchPad\LaunchPad\bin\Debug\LaunchPad.pdb
+C:\Users\User\source\repos\LaunchPad\LaunchPad\obj\Debug\LaunchPad.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LaunchPad\LaunchPad\obj\Debug\LaunchPad.FrmMain.resources
+C:\Users\User\source\repos\LaunchPad\LaunchPad\obj\Debug\LaunchPad.Properties.Resources.resources
+C:\Users\User\source\repos\LaunchPad\LaunchPad\obj\Debug\LaunchPad.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LaunchPad\LaunchPad\obj\Debug\LaunchPad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaunchPad\LaunchPad\obj\Debug\LaunchPad.exe
+C:\Users\User\source\repos\LaunchPad\LaunchPad\obj\Debug\LaunchPad.pdb
